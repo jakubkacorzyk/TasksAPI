@@ -1,2 +1,2 @@
 # TasksAPI
-Coding task written in .Net Core 3.1
+Coding task implemented in .Net Core 3.1
